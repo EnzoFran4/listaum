@@ -1,0 +1,15 @@
+C:\Users\2022102020022\source\repos\listaum\listaum\bin\Debug\net6.0\listaum.exe
+C:\Users\2022102020022\source\repos\listaum\listaum\bin\Debug\net6.0\listaum.deps.json
+C:\Users\2022102020022\source\repos\listaum\listaum\bin\Debug\net6.0\listaum.runtimeconfig.json
+C:\Users\2022102020022\source\repos\listaum\listaum\bin\Debug\net6.0\listaum.dll
+C:\Users\2022102020022\source\repos\listaum\listaum\bin\Debug\net6.0\listaum.pdb
+C:\Users\2022102020022\source\repos\listaum\listaum\obj\Debug\net6.0\listaum.csproj.AssemblyReference.cache
+C:\Users\2022102020022\source\repos\listaum\listaum\obj\Debug\net6.0\listaum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020022\source\repos\listaum\listaum\obj\Debug\net6.0\listaum.AssemblyInfoInputs.cache
+C:\Users\2022102020022\source\repos\listaum\listaum\obj\Debug\net6.0\listaum.AssemblyInfo.cs
+C:\Users\2022102020022\source\repos\listaum\listaum\obj\Debug\net6.0\listaum.csproj.CoreCompileInputs.cache
+C:\Users\2022102020022\source\repos\listaum\listaum\obj\Debug\net6.0\listaum.dll
+C:\Users\2022102020022\source\repos\listaum\listaum\obj\Debug\net6.0\refint\listaum.dll
+C:\Users\2022102020022\source\repos\listaum\listaum\obj\Debug\net6.0\listaum.pdb
+C:\Users\2022102020022\source\repos\listaum\listaum\obj\Debug\net6.0\listaum.genruntimeconfig.cache
+C:\Users\2022102020022\source\repos\listaum\listaum\obj\Debug\net6.0\ref\listaum.dll
