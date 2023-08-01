@@ -1,5 +1,7 @@
 ﻿using System;
- public class program
+using System.ComponentModel;
+
+public class program
 {
 
 
@@ -13,7 +15,7 @@
             Console.WriteLine("Deseja cadastrar um aluno?");
             Console.WriteLine("0 - Sim");
             Console.WriteLine("1 - Não");
-            Console.WriteLine("2 - Sair");
+            
             int resposta = Convert.ToInt32(Console.ReadLine());
 
             if (resposta == 0)
@@ -27,47 +29,38 @@
                 aluno1.Cpf = Convert.ToString(Console.ReadLine());
                 Console.WriteLine("Informe a data de nascimento do aluno:");
                 aluno1.DataNascimento = DateOnly.Parse(Console.ReadLine());
+                alunos.Add(aluno1);
 
-               
 
-                Console.WriteLine("Voce deseja parar?");
-                Console.WriteLine("1 - Sim");
-                Console.WriteLine("2 - Não");
-                int respostaoutra = Convert.ToInt32(Console.ReadLine());
-                
-                if(respostaoutra == 1)
-                {
-                    foreach (Aluno aluno in alunos)
-                    {
-                        Console.WriteLine(aluno1.Nome + " " + aluno1.Matricula + " " + aluno1.Cpf + " " + aluno1.DataNascimento);
-                    }
-                }
 
-                if (respostaoutra == 2)
-                {
-                   
 
-                }
+
+
+              
 
             }
             if(resposta == 1)
             {
-                Console.WriteLine("Ok");
+                break;
 
             }
-            else if(resposta ==2)
-            {
-                break;
-            }
+         
             
         }
-        
+
+        foreach (Aluno a in alunos)
+        {
+            Console.WriteLine(a.Nome + " " + a.Matricula + " " + a.Cpf + " " + a.DataNascimento);
+        }
+
+
 
 
 
 
 
     }
+   
 }
 
 /*while (true);
